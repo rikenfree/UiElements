@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 889794c411054f7ca8e6fbdc6728c846, type: 3}
+  m_Name: _UIViewDatabase 2
+  m_EditorClassIdentifier: 
+  DatabaseType: 2
+  CategoryNames:
+  - Custom
+  - Example
+  - General
+  - MainMenu
+  - OfflineMode
+  - SideWindow
+  - UserAuth
+  - AIModelBuilder
+  Categories:
+  - {fileID: 11400000, guid: b01e98f4801f7124ba39e1dac4debf90, type: 2}
+  - {fileID: 11400000, guid: a4f14e3522c649144aa0540dbf7abc8a, type: 2}
+  - {fileID: 11400000, guid: aea0e21853500674a8f6b6bca420396a, type: 2}
+  - {fileID: 11400000, guid: 6e67ce8793a2b1940af71ef3a8426d74, type: 2}
+  - {fileID: 11400000, guid: 64b7d9016dbe2cc40ad7d8f1ed9137ae, type: 2}
+  - {fileID: 11400000, guid: 5161d563fa6bc064d81a7e9485917c51, type: 2}
+  - {fileID: 11400000, guid: 10d6a915f8f24784991475c6c7b33760, type: 2}
+  - {fileID: 0}

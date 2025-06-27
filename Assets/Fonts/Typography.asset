@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9265f6f04cd690b49a830a4d3981f558, type: 3}
+  m_Name: Typography
+  m_EditorClassIdentifier: 
+  jsonFile: {fileID: 0}
+  regularFont: {fileID: 11400000, guid: 66ee2018836a19b408c044576e454c3c, type: 2}
+  mediumFont: {fileID: 11400000, guid: 2733b0c00abb5e34db9b12fbcbcef135, type: 2}
+  semiBoldFont: {fileID: 11400000, guid: 2fbf9469811caed4092c2834d2fc4a56, type: 2}
+  boldFont: {fileID: 11400000, guid: a32373ea657e7794591c40e8d731b256, type: 2}
+  monospaceFont: {fileID: 11400000, guid: cfa2c672b25625842b29672e3773f59a, type: 2}
+  highEmphasisText: {r: 1, g: 1, b: 1, a: 1}
+  mediumEmphasisText: {r: 1, g: 1, b: 1, a: 0.6}
+  disabledText: {r: 1, g: 1, b: 1, a: 0.38039216}
+  headingLarge:
+    font: {fileID: 11400000, guid: 2733b0c00abb5e34db9b12fbcbcef135, type: 2}
+    fontSize: 44
+    lineHeight: 0
+    tracking: 0.5
+  headingMedium:
+    font: {fileID: 11400000, guid: 2733b0c00abb5e34db9b12fbcbcef135, type: 2}
+    fontSize: 40
+    lineHeight: 0
+    tracking: 0.5
+  headingSmall:
+    font: {fileID: 11400000, guid: 2733b0c00abb5e34db9b12fbcbcef135, type: 2}
+    fontSize: 36
+    lineHeight: 0
+    tracking: 0.6
+  bodyLarge:
+    font: {fileID: 11400000, guid: 66ee2018836a19b408c044576e454c3c, type: 2}
+    fontSize: 36
+    lineHeight: 0
+    tracking: 0.8
+  bodyMedium:
+    font: {fileID: 11400000, guid: 66ee2018836a19b408c044576e454c3c, type: 2}
+    fontSize: 32
+    lineHeight: 0
+    tracking: 0.6
+  bodySmall:
+    font: {fileID: 11400000, guid: 66ee2018836a19b408c044576e454c3c, type: 2}
+    fontSize: 28
+    lineHeight: 0
+    tracking: 0.5
+  bodyStrongLarge:
+    font: {fileID: 11400000, guid: 2fbf9469811caed4092c2834d2fc4a56, type: 2}
+    fontSize: 36
+    lineHeight: 0
+    tracking: 0.8
+  bodyStrongMedium:
+    font: {fileID: 11400000, guid: 2fbf9469811caed4092c2834d2fc4a56, type: 2}
+    fontSize: 32
+    lineHeight: 0
+    tracking: 0.6
+  bodyStrongSmall:
+    font: {fileID: 11400000, guid: 2fbf9469811caed4092c2834d2fc4a56, type: 2}
+    fontSize: 28
+    lineHeight: 0
+    tracking: 0.5
+  indicatorLarge:
+    font: {fileID: 11400000, guid: 2fbf9469811caed4092c2834d2fc4a56, type: 2}
+    fontSize: 28
+    lineHeight: 0
+    tracking: 0.6
+  indicatorMedium:
+    font: {fileID: 11400000, guid: 2fbf9469811caed4092c2834d2fc4a56, type: 2}
+    fontSize: 24
+    lineHeight: 0
+    tracking: 0.5
+  indicatorSmall:
+    font: {fileID: 11400000, guid: 2fbf9469811caed4092c2834d2fc4a56, type: 2}
+    fontSize: 20
+    lineHeight: 0
+    tracking: 0.5
+  indicatorStrongLarge:
+    font: {fileID: 11400000, guid: a32373ea657e7794591c40e8d731b256, type: 2}
+    fontSize: 28
+    lineHeight: 0
+    tracking: 2
+  indicatorStrongMedium:
+    font: {fileID: 11400000, guid: a32373ea657e7794591c40e8d731b256, type: 2}
+    fontSize: 24
+    lineHeight: 0
+    tracking: 1.4
+  indicatorStrongSmall:
+    font: {fileID: 11400000, guid: a32373ea657e7794591c40e8d731b256, type: 2}
+    fontSize: 20
+    lineHeight: 0
+    tracking: 1.4
+  indicatorNumeralLarge:
+    font: {fileID: 11400000, guid: a32373ea657e7794591c40e8d731b256, type: 2}
+    fontSize: 24
+    lineHeight: 0
+    tracking: 2
+  indicatorNumeralSmall:
+    font: {fileID: 11400000, guid: a32373ea657e7794591c40e8d731b256, type: 2}
+    fontSize: 16
+    lineHeight: 0
+    tracking: 0
+  monospace:
+    font: {fileID: 11400000, guid: cfa2c672b25625842b29672e3773f59a, type: 2}
+    fontSize: 24
+    lineHeight: 28
+    tracking: 0.8
